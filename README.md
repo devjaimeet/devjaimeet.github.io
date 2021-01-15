@@ -1,2 +1,2 @@
-# devjaimeet.github.io
+# Jaimeet S. Patel
 Personal website
